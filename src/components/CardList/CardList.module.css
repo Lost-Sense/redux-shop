@@ -1,0 +1,15 @@
+.card_list {
+  padding: 10px;
+  margin-top: 71px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  gap: 20px 10px;
+  justify-content: center;
+}
+
+@media (max-width: 460px) {
+  .card_list {
+    margin-top: 138px;
+  }
+}

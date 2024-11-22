@@ -1,0 +1,14 @@
+.bucket-button {
+  background-color: white;
+  color: #343a40;
+  border: 1px solid #ccc;
+  border-radius: 20px;
+  padding: 10px 20px;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.2s;
+}
+
+.bucket-button:hover {
+  background-color: #d6d7d8;
+
+}
